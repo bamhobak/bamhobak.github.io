@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.bamhobak.ddongpi",
+    "sha256_cert_fingerprints": [
+      "2D:CE:73:0D:84:56:A3:CC:62:A9:AF:5C:0F:B0:1F:51:59:FB:4F:6F:ED:7D:18:24:7E:B8:84:6D:CD:71:D6:F4"
+    ]
+  }
+}]
